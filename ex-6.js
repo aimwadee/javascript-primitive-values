@@ -2,5 +2,5 @@
 
 let totalParts = 13000;
 
-let concatSentence;
-let literalSentence;
+let concatSentence = console.log(typeof 'Total:"totalParts" Machine parts');
+let literalSentence = "Total:"+ totalParts +"Machine parts" ;
